@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="29cc8fb5e8a1211076da10591ad287e4" extends="sys_import_set_row" label="Computer" max_length="40" name="imp_computer" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="40" name="u_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=E" label="E" max_length="40" name="u_e" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=H" label="H" max_length="40" name="u_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OBESE ADULTS WORLDWIDE" label="OBESE ADULTS WORLDWIDE" max_length="40" name="u_obese_adults_worldwide" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OVERWEIGHT ADULTS WORLDWIDE" label="OVERWEIGHT ADULTS WORLDWIDE" max_length="40" name="u_overweight_adults_worldwide" type="string"/>
+    </element>
+</database>
